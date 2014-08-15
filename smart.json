@@ -3,6 +3,6 @@
 	"description": "jqBootstrapValidation, packaged for Meteor",
 	"homepage": "https://github.com/nate-strauser/meteor-jqbootstrapvalidation",
 	"author": "Nate Strauser",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"git": "https://github.com/nate-strauser/meteor-jqbootstrapvalidation.git"
 }
